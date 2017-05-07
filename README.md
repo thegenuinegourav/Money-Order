@@ -25,7 +25,7 @@ Suppose Client A wants to send 50 rupees to Client B provided both are offline.
 Step 1: Client A sends the SMS to a number (associated with the device in which Money Order is installed).  
 Step 2: SMS Format should be as follows:  
   
-        *MO<space><Reciever Phone Number><space><Amount to transfer>*  
+        MO<space><Reciever Phone Number><space><Amount to transfer>  
 Step 3: Money Order will recieve this SMS, complete corresponding transaction and sends back successfull/failure SMS regarding the transaction to both sender and reciever.  
   
   
