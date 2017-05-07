@@ -25,7 +25,7 @@ Suppose Client A wants to send 50 rupees to Client B provided both are offline.
 Step 1: Client A sends the SMS to a number (associated with the device in which Money Order is installed).  
 Step 2: SMS Format should be as follows:  
   
-        *MO<space><Reciever Phone Number><space><Amount to transfer>*  
+        MO<space><Reciever Phone Number><space><Amount to transfer>  
 Step 3: Money Order will recieve this SMS, complete corresponding transaction and sends back successfull/failure SMS regarding the transaction to both sender and reciever.  
   
   
@@ -55,4 +55,12 @@ To fix a bug or enhance an existing module, follow these steps:
 If you find a bug (the website couldn't handle the query and / or gave irrelevant results), kindly open an issue [here](https://github.com/thegenuinegourav/Money-Order/issues/new) by including your search query and the expected result.  
   
 If you'd like to request a new functionality, feel free to do so by opening an issue [here](https://github.com/thegenuinegourav/Money-Order/issues/new) including some sample queries and their corresponding results.  
+  
+  
+  
+### ScreenShots  
+  
+  
+![Screenshot1](https://github.com/thegenuinegourav/Money-Order/blob/master/Screenshots/Screenshot_2017-05-08-01-35-20.png) ![Screenshot2](https://github.com/thegenuinegourav/Money-Order/blob/master/Screenshots/Screenshot_2017-05-08-01-35-30.png)  
+  
   
