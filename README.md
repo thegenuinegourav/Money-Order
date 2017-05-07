@@ -3,6 +3,8 @@
   
 #### __*An Android App :heavy_dollar_sign: that is capable of doing OFFLINE PAYMENT transactions.*__  
   
+Demo Video is available on [Youtube](https://www.youtube.com/watch?v=Ndd-LEJpvgA) 
+  
   
   
 ### Motivation :muscle:    
