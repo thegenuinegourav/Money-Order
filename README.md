@@ -61,9 +61,6 @@ If you'd like to request a new functionality, feel free to do so by opening an i
 ### ScreenShots  
   
   
-![Screenshot1](https://github.com/thegenuinegourav/Money-Order/blob/master/Screenshots/Screenshot_2017-05-08-01-35-20.png)  
-  
-  
-![Screenshot2](https://github.com/thegenuinegourav/Money-Order/blob/master/Screenshots/Screenshot_2017-05-08-01-35-30.png)  
+![Screenshot1](https://github.com/thegenuinegourav/Money-Order/blob/master/Screenshots/Screenshot_2017-05-08-01-35-20.png) ![Screenshot2](https://github.com/thegenuinegourav/Money-Order/blob/master/Screenshots/Screenshot_2017-05-08-01-35-30.png)  
   
   
