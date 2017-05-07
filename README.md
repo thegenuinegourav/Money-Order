@@ -56,3 +56,14 @@ If you find a bug (the website couldn't handle the query and / or gave irrelevan
   
 If you'd like to request a new functionality, feel free to do so by opening an issue [here](https://github.com/thegenuinegourav/Money-Order/issues/new) including some sample queries and their corresponding results.  
   
+  
+  
+### ScreenShots  
+  
+  
+![Screenshot1](https://github.com/thegenuinegourav/Money-Order/blob/master/Screenshots/Screenshot_2017-05-08-01-35-20.png)  
+  
+  
+![Screenshot2](https://github.com/thegenuinegourav/Money-Order/blob/master/Screenshots/Screenshot_2017-05-08-01-35-30.png)  
+  
+  
