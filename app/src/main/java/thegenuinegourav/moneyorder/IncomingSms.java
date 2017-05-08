@@ -29,20 +29,6 @@ public class IncomingSms extends BroadcastReceiver {
         Intent in = new Intent(SENT_SMS_FLAG);
         PendingIntent sentIntent = PendingIntent.getBroadcast(context, 0,
                 in, 0);
-        if(MainActivity.getAppContext() == null)
-        {
-            PackageManager pm = context.getPackageManager();
-            Intent launchIntent = pm.getLaunchIntentForPackage("thegenuinegourav.moneyorder");
-            context.startActivity(launchIntent);
-        }
-        else
-        {
-            MainActivity.getAppContext().registerReceiver(
-                    new MessageSentListener(),
-                    new IntentFilter(SENT_SMS_FLAG));
-
-        }
-
 
         // Retrieves a map of extended data from the intent.
         final Bundle bundle = intent.getExtras();
@@ -70,6 +56,20 @@ public class IncomingSms extends BroadcastReceiver {
                     String receiverNum = null,amount = null;
                     if(stringArray[0].equals("MO") || stringArray[0].equals("mo") || stringArray[0].equals("Mo"))
                     {
+                        if(MainActivity.getAppContext() == null)
+                        {
+                            PackageManager pm = context.getPackageManager();
+                            Intent launchIntent = pm.getLaunchIntentForPackage("thegenuinegourav.moneyorder");
+                            context.startActivity(launchIntent);
+                        }
+                        else
+                        {
+                            MainActivity.getAppContext().registerReceiver(
+                                    new MessageSentListener(),
+                                    new IntentFilter(SENT_SMS_FLAG));
+
+                        }
+
                         if(stringArray[1]!=null) receiverNum = stringArray[1];
                         if(stringArray[2]!=null) amount = stringArray[2];
 
