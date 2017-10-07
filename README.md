@@ -8,7 +8,7 @@ Demo Video is available on [Youtube](https://www.youtube.com/watch?v=Ndd-LEJpvgA
   
   
 ### Motivation :muscle:    
-Though at Jio it is ensured that all Indians are connected to data at all times but there would be scenarios where the user could not be connected to the Internet owing to many reasons like Basement Parking, Basement Stores, while in a flight, etc.  
+Though using Jio, it is ensured that all Indians are connected to data at all times but there would be scenarios where the user could not be connected to the Internet owing to many reasons like Basement Parking, Basement Stores, in a flight, etc.  
   
   
 As an individual we cannot avoid such scenarios and when we need to make payment, only cash transaction comes to our rescue.After demonetization, the whole focus is to how to eradicate cash transaction from the system and hence the need of Offline Payments becomes really important.  
